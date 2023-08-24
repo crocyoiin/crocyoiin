@@ -1,5 +1,10 @@
-## Hello!! 🦀
-
+## ˗ˏˋ hello!! 🦀 ´ˎ˗
+<font size = "3">
+♢  &nbsp; 2nd year Computer Science @ UNSW </br>
+♣  &nbsp; she / they </br>
+♡  &nbsp; experimenting and learning stuff :) </br>
+♠  &nbsp; currently very normal and sane about evangelion </br>
+</font>
 <!--
 **crocyoiin/crocyoiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
