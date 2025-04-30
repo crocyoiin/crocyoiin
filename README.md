@@ -1,6 +1,6 @@
 ## ˗ˏˋ hello!! 🦀 ´ˎ˗
 <font size = "3">
-♢  &nbsp; 3nd year Computer Science @ UNSW </br>
+♢  &nbsp; Computer Science @ UNSW </br>
 ♣  &nbsp; public static void main string args defender </br>
 ♡  &nbsp; experimenting and learning stuff :) </br>
 ♠  &nbsp; currently very normal and sane about logh </br>
